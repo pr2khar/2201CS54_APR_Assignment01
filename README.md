@@ -1,7 +1,7 @@
-Created by : Prakhar Shukla
-Roll Number : 2201CS54
+#### Created by : Prakhar Shukla
+#### Roll Number : 2201CS54
 
-### Diabetes Classification using Logistic Regression & SVM
+## Diabetes Classification using Logistic Regression & SVM
 
 This project trains and evaluates two supervised machine learning models, Logistic Regression and a Support Vector Machine (SVM) with an RBF kernel, for the task of diabetes classification. The goal is to compare their performance on a clinical dataset.
 
